@@ -1,0 +1,3 @@
+https://github.com/netology-code/bphp-2-homeworks/tree/master/002-console
+
+https://replit.com/@Smolenskiy/bphp-292#main.php
